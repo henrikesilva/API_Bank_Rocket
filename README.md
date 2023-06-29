@@ -26,7 +26,7 @@ A API não possui banco de dados vinculado e armazena dados em memória, ou seja
 
 ## Teste da API utilizando o Postman
 
-Você pode realizar testes de requisições pré configuradas utilizando a collection carregada nesse repositório no diretório "Postman_Collection"
+Você pode realizar testes de requisições pré configuradas utilizando a collection carregada nesse repositório no diretório [Postman_Collection]: (Postman_Collection/API Banco.postman_collection.json)
 - O endereço base da API está configurado como variavel da collection, caso você altere na API lembre-se de mudar nas configurações da collection
 - Os dados utilizados são ficticios
 - Lembre-se de passar o campo CPF no header das requesições, pois a API tem a obrigatóriedade de uso de uma conta "ativa"
